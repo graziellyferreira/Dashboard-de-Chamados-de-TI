@@ -8,6 +8,10 @@ Com foco em monitoramento em tempo real, a ferramenta permite que o gestor da á
 # 📊 Principais Análises do Dashboard
 O dashboard foi desenvolvido para fornecer uma visão consolidada dos chamados de TI, permitindo acompanhar indicadores operacionais, identificar padrões de demanda e apoiar a tomada de decisões por meio de análises visuais e métricas estratégicas.
 
+<p align="center">
+  <img src="dashboard-powerbi.png" width="900">
+</p>
+
 # 📅 Principais Indicadores
 Total de Chamados: Volume geral de demandas abertas na empresa.
 
