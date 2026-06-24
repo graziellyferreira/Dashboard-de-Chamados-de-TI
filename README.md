@@ -1,4 +1,4 @@
-## 📊 Dashboard de Chamados de TI — Eficiência em Suporte Técnico
+## 📊 Dashboard de Chamados de TI — Power BI
 
 # 📈 O Objetivo do Projeto
 Em um ambiente corporativo, cada minuto de sistema fora do ar ou computador travado pode significar prejuízo. A missão deste dashboard é trazer total clareza e agilidade para a gestão de TI, transformando dados brutos de suporte em decisões estratégicas rápidas.
