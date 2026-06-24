@@ -5,14 +5,14 @@ Em um ambiente corporativo, cada minuto de sistema fora do ar ou computador trav
 
 Com foco em monitoramento em tempo real, a ferramenta permite que o gestor da área identifique gargalos no atendimento, entenda quais departamentos demandam mais esforço e garanta que nenhum chamado urgente fique esquecido na fila. 🚀
 
-# 📊 Principais Análises do Dashboard
-O dashboard foi desenvolvido para fornecer uma visão consolidada dos chamados de TI, permitindo acompanhar indicadores operacionais, identificar padrões de demanda e apoiar a tomada de decisões por meio de análises visuais e métricas estratégicas.
-
 <p align="center">
   <img src="dashboard-powerbi.png" width="900">
 </p>
 
-# 📅 Principais Indicadores
+# 📊 Principais Análises do Dashboard
+O dashboard foi desenvolvido para fornecer uma visão consolidada dos chamados de TI, permitindo acompanhar indicadores operacionais, identificar padrões de demanda e apoiar a tomada de decisões por meio de análises visuais e métricas estratégicas.
+
+# 📅 Visão Geral dos Chamados
 Total de Chamados: Volume geral de demandas abertas na empresa.
 
 Chamados Pendentes, Resolvidos e Em Andamento: Status atualizado para controle de fluxo e produtividade.
